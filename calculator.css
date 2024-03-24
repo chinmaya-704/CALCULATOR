@@ -1,0 +1,49 @@
+body{
+   background-color: black;
+   margin: 10px;
+}
+#config{
+   border: none;
+   color: aliceblue;
+   margin: 5px;
+   border-radius: 60px;
+}
+.num{
+   font-size: 20px;
+   height: 60px;
+   width: 60px;
+   background-color: rgb(51, 49, 49);
+}
+.sym{
+   height: 60px;
+   width: 60px;            
+   background-color: orange;
+   font-size: 25px;
+}
+.clr{
+   background-color: rgb(51, 49, 49);
+   font-size: 15px;
+   height: 60px;
+   width: 60px;            
+   /* padding: 17px 12px; */
+}
+.dot{
+   height: 60px;
+   width: 60px;            
+   /* padding: 12px 21px; */
+   font-size: 20px;
+   background-color: rgb(51, 49, 49);
+   
+}
+.eql{
+   height: 60px;
+   width: 60px;            
+   /* padding: 11px 17px; */
+   font-size: 20px;
+   background-color: rgb(51, 49, 49);
+}
+#view{
+   color: aliceblue;
+   font-size: 40px;
+   font-family: Arial;
+}
